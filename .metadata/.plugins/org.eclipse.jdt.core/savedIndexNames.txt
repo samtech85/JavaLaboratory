@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/administration/Desktop/Java Laboratories/.metadata/.plugins/org.eclipse.jdt.core
+646308851.index
+460390469.index
